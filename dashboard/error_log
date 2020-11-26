@@ -1,0 +1,179 @@
+[05-Apr-2018 13:49:03 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/allancloudstores/public_html/eshoper/index.php on line 3
+[05-Apr-2018 14:04:12 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshoper/index.php on line 76
+[05-Apr-2018 21:28:50 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshoper/index.php on line 76
+[06-Apr-2018 09:53:52 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshoper/index.php on line 76
+[16-Apr-2018 09:03:30 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshoper/index.php on line 76
+[21-Apr-2018 20:06:01 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 9
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 10
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 14
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 19
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 24
+[21-Apr-2018 20:43:33 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[21-Apr-2018 20:44:33 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[21-Apr-2018 20:44:54 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[22-Apr-2018 10:23:49 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[24-Apr-2018 05:24:10 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[24-Apr-2018 05:25:47 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 24
+[24-Apr-2018 05:28:52 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[24-Apr-2018 05:50:36 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[24-Apr-2018 07:42:05 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[26-Apr-2018 10:54:28 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/list_products.php on line 10
+[26-Apr-2018 10:54:28 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/list_products.php on line 11
+[26-Apr-2018 10:54:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/list_products.php on line 217
+[26-Apr-2018 10:54:30 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[27-Apr-2018 02:45:20 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[27-Apr-2018 02:45:34 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 37
+[02-May-2018 12:06:54 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[07-May-2018 10:51:32 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[07-May-2018 10:52:46 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[07-May-2018 10:52:55 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[07-May-2018 12:43:11 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[07-May-2018 12:51:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/add_category.php on line 9
+[07-May-2018 12:51:39 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[07-May-2018 12:51:42 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 9
+[07-May-2018 12:51:42 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 10
+[07-May-2018 12:51:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 14
+[07-May-2018 12:51:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 19
+[07-May-2018 12:51:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 24
+[07-May-2018 12:51:42 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[07-May-2018 12:51:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 9
+[07-May-2018 12:51:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 10
+[07-May-2018 12:51:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 14
+[07-May-2018 12:51:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 19
+[07-May-2018 12:51:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 24
+[07-May-2018 12:51:46 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[12-May-2018 19:08:12 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[12-May-2018 19:14:56 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 37
+[12-May-2018 19:16:46 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[15-May-2018 08:01:24 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 08:11:24 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 08:22:30 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 37
+[15-May-2018 08:34:29 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 08:37:05 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 08:46:33 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 09:08:22 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 10:00:04 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 13:06:32 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[15-May-2018 13:21:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 9
+[15-May-2018 13:21:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 10
+[15-May-2018 13:21:24 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 14
+[15-May-2018 13:21:24 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 19
+[15-May-2018 13:21:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 24
+[15-May-2018 13:21:24 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[15-May-2018 19:06:31 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[17-May-2018 14:09:50 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[25-May-2018 21:40:54 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 9
+[25-May-2018 21:40:54 Etc/GMT] PHP Notice:  Undefined index: username in /home/allancloudstores/public_html/eshopper/home.php on line 10
+[25-May-2018 21:40:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 14
+[25-May-2018 21:40:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 19
+[25-May-2018 21:40:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/allancloudstores/public_html/eshopper/home.php on line 24
+[25-May-2018 21:40:56 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[28-May-2018 12:37:14 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[28-May-2018 13:11:19 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 37
+[28-May-2018 13:12:57 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[03-Jun-2018 19:29:26 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[03-Jun-2018 19:50:41 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 37
+[04-Jun-2018 07:54:57 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 76
+[17-Jun-2018 11:18:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:18:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:19:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:19:07 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:19:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:19:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:22:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:22:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:24:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:24:30 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:25:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:25:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:25:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/index.php on line 12
+[17-Jun-2018 11:25:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/index.php on line 13
+[17-Jun-2018 11:38:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/eshopper/index.php on line 125
+[17-Jun-2018 11:38:49 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/eshopper/index.php on line 125
+[17-Jun-2018 11:38:53 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/eshopper/index.php on line 125
+[17-Jun-2018 11:39:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/eshopper/index.php on line 125
+[17-Jun-2018 11:39:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/eshopper/index.php on line 125
+[17-Jun-2018 12:29:45 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 112
+[17-Jun-2018 12:29:59 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 112
+[17-Jun-2018 12:32:07 Etc/GMT] PHP Notice:  Undefined variable: response in /home/allancloudstores/public_html/eshopper/index.php on line 118
+[17-Jun-2018 14:01:39 Etc/GMT] PHP Notice:  Undefined index: name in /home/allancloudstores/public_html/eshopper/add_category.php on line 12
+[17-Jun-2018 14:02:00 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/allancloudstores/public_html/eshopper/list_category.php on line 25
+[17-Jun-2018 14:02:00 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allancloudstores/public_html/eshopper/list_category.php on line 25
+[17-Jun-2018 14:02:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/list_category.php on line 177
+[17-Jun-2018 14:09:24 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 38
+[17-Jun-2018 14:14:36 Etc/GMT] PHP Notice:  Undefined index: description in /home/allancloudstores/public_html/eshopper/add_products.php on line 38
+[02-Jul-2018 12:04:11 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/allancloudstores/public_html/eshopper/logout.php on line 7
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: stock in /home/allancloudstores/public_html/eshopper/editproduct.php on line 115
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 354
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 360
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 366
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 372
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 378
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 391
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 395
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 409
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 413
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 425
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 431
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 444
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 445
+[06-Aug-2018 11:28:54 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 446
+[06-Aug-2018 11:36:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 20
+[06-Aug-2018 11:36:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 21
+[06-Aug-2018 11:37:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 20
+[06-Aug-2018 11:37:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 21
+[06-Aug-2018 11:37:52 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 217
+[06-Aug-2018 11:37:52 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 223
+[06-Aug-2018 11:37:52 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 224
+[06-Aug-2018 11:39:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 20
+[06-Aug-2018 11:39:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/allancloudstores/public_html/eshopper/editcategory.php on line 21
+[06-Aug-2018 11:41:25 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 217
+[06-Aug-2018 11:41:25 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 223
+[06-Aug-2018 11:41:25 Etc/GMT] PHP Notice:  Undefined variable: row in /home/allancloudstores/public_html/eshopper/editcategory.php on line 224
+[06-Aug-2018 11:43:30 Etc/GMT] PHP Notice:  Undefined variable: stock in /home/allancloudstores/public_html/eshopper/editproduct.php on line 115
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 354
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 360
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 366
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 372
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 378
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 391
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 395
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 409
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 413
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 425
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 431
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 444
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 445
+[06-Aug-2018 11:43:31 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 446
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: stock in /home/allancloudstores/public_html/eshopper/editproduct.php on line 115
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 341
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 354
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 360
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 366
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 372
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 378
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 391
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 395
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 409
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 413
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 425
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 431
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 444
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 445
+[06-Aug-2018 11:47:23 Etc/GMT] PHP Notice:  Undefined variable: row2 in /home/allancloudstores/public_html/eshopper/editproduct.php on line 446
+[06-Aug-2018 12:05:19 Etc/GMT] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 2 given in /home/allancloudstores/public_html/eshopper/list_products.php on line 34
+[06-Aug-2018 12:05:19 Etc/GMT] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/allancloudstores/public_html/eshopper/list_products.php on line 35
+[06-Aug-2018 12:07:52 Etc/GMT] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 2 given in /home/allancloudstores/public_html/eshopper/list_products.php on line 35
+[06-Aug-2018 12:07:52 Etc/GMT] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/allancloudstores/public_html/eshopper/list_products.php on line 36
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077962.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077963.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077964.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077965.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077966.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39
+[06-Aug-2018 12:18:48 Etc/GMT] PHP Warning:  unlink(../emobishopper/enterprises/kol58/ghhj4077967.png): No such file or directory in /home/allancloudstores/public_html/eshopper/list_category.php on line 39

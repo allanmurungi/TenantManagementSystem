@@ -1,0 +1,277 @@
+[19-Apr-2018 13:03:09 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/allancloudstores/public_html/cloudstores/register/signup.php on line 7
+[19-Apr-2018 13:03:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/allancloudstores/public_html/cloudstores/register/signup.php on line 7
+[19-Apr-2018 13:10:04 Etc/GMT] PHP Notice:  Undefined variable: categories in /home/allancloudstores/public_html/cloudstores/register/signup.php on line 407
+[19-Apr-2018 13:10:30 Etc/GMT] PHP Notice:  Undefined variable: categories in /home/allancloudstores/public_html/cloudstores/register/joinmall.php on line 409
+[19-Apr-2018 13:10:53 Etc/GMT] PHP Notice:  Undefined variable: categories in /home/allancloudstores/public_html/cloudstores/register/signup.php on line 407
+[19-Apr-2018 13:11:14 Etc/GMT] PHP Notice:  Undefined variable: categories in /home/allancloudstores/public_html/cloudstores/register/signup.php on line 407
+[19-Apr-2018 13:13:09 Etc/GMT] PHP Notice:  Undefined variable: categories in /home/allancloudstores/public_html/cloudstores/register/joinmall.php on line 409
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/success.php on line 2
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 310
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 314
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 315
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 316
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 317
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 318
+[20-Apr-2018 14:45:23 Etc/GMT] PHP Notice:  Use of undefined constant DOMAIN_URL - assumed 'DOMAIN_URL' in /home/allancloudstores/public_html/cloudstores/register/success.php on line 319
+[20-Apr-2018 14:56:04 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/success.php on line 4
+[23-Apr-2018 19:57:28 Etc/GMT] PHP Notice:  Undefined index: status in /home/allancloudstores/public_html/cloudstores/register/login.php on line 6
+[23-Apr-2018 20:00:36 Etc/GMT] PHP Notice:  Undefined index: status in /home/allancloudstores/public_html/cloudstores/register/login.php on line 6
+[25-Apr-2018 12:55:25 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 12:55:25 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 12:55:25 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 12:55:25 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 13:21:10 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 13:21:10 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 13:21:10 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 13:21:10 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 13:53:09 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 13:53:09 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 13:53:09 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 13:53:09 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 14:00:53 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 14:00:53 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 14:00:53 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 14:00:53 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:05:04 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 52
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:20:25 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 52
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: fname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 20
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: lname in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 21
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: other in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 22
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: position in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 23
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[25-Apr-2018 16:21:34 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 52
+[26-Apr-2018 00:19:49 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[26-Apr-2018 00:19:49 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[26-Apr-2018 00:19:49 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 52
+[26-Apr-2018 00:36:47 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[26-Apr-2018 00:36:47 Etc/GMT] PHP Warning:  getimagesize(): Filename cannot be empty in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 37
+[26-Apr-2018 00:36:47 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 52
+[26-Apr-2018 00:41:36 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 43
+[26-Apr-2018 01:00:52 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 43
+[26-Apr-2018 01:06:13 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 34
+[26-Apr-2018 01:06:13 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 43
+[26-Apr-2018 01:12:13 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 35
+[26-Apr-2018 01:12:13 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 44
+[26-Apr-2018 01:14:36 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 35
+[26-Apr-2018 01:14:36 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 44
+[26-Apr-2018 01:17:22 Etc/GMT] PHP Warning:  move_uploaded_file(enterprises/wolpboutique1/allanmurungipng): failed to open stream: No such file or directory in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 59
+[26-Apr-2018 01:17:22 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCsEaLc' to 'enterprises/wolpboutique1/allanmurungipng' in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 59
+[26-Apr-2018 01:21:49 Etc/GMT] PHP Warning:  move_uploaded_file(enterprises/wolpboutique1/allanmurungipng): failed to open stream: No such file or directory in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:21:49 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf0veZu' to 'enterprises/wolpboutique1/allanmurungipng' in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:25:08 Etc/GMT] PHP Warning:  move_uploaded_file(enterprises/wolpboutique1/allanmurungipng): failed to open stream: No such file or directory in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:25:08 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0WdfEU' to 'enterprises/wolpboutique1/allanmurungipng' in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:26:49 Etc/GMT] PHP Warning:  move_uploaded_file(enterprises/wolpboutique1/allanmurungipng): failed to open stream: No such file or directory in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:26:49 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDrGjk9' to 'enterprises/wolpboutique1/allanmurungipng' in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:28:12 Etc/GMT] PHP Warning:  move_uploaded_file(enterprises/wolpboutique1/allanmurungi.png): failed to open stream: No such file or directory in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 01:28:12 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprR9xwF' to 'enterprises/wolpboutique1/allanmurungi.png' in /home/allancloudstores/public_html/cloudstores/register/entermember.php on line 56
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 526
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 526
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 534
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 538
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 543
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 547
+[26-Apr-2018 03:04:26 Etc/GMT] PHP Notice:  Undefined variable: mems in /home/allancloudstores/public_html/cloudstores/register/editmember.php on line 559
+[27-Apr-2018 03:06:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/allancloudstores/public_html/cloudstores/register/payment.php on line 15
+[27-Apr-2018 16:22:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 279
+[27-Apr-2018 16:24:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 935
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:31:40 Etc/GMT] PHP Notice:  Undefined offset: 13 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:33:45 Etc/GMT] PHP Notice:  Undefined offset: 13 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:37:12 Etc/GMT] PHP Notice:  Undefined offset: 13 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 10 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:40:59 Etc/GMT] PHP Notice:  Undefined offset: 14 in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 25
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined index: enterprise_name in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 49
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 53
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 57
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 65
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Warning:  rename(enterprises/logos/.png,enterprises/logos/.png): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 103
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Warning:  rename(enterprises/,enterprises/): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 104
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: categoriesx in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 665
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:49:14 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Warning:  rename(enterprises/logos/wolpboutique1.png,enterprises/logos/wolpboutique1.png): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 103
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Warning:  rename(enterprises/wolpboutique1,enterprises/wolpboutique1): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 104
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: categoriesx in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 665
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 16:56:51 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Warning:  rename(enterprises/logos/wolpboutique1.png,enterprises/logos/wolpboutique1.png): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 103
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Warning:  rename(enterprises/wolpboutique1,enterprises/wolpboutique1): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 104
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: categoriesx in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 665
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 17:01:43 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 17:09:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'msg' (T_STRING) in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 190
+[27-Apr-2018 17:10:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'msg' (T_STRING) in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 190
+[27-Apr-2018 17:10:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'msg' (T_STRING) in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 190
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Warning:  rename(enterprises/logos/wolpboutique1.png,enterprises/logos/wolpboutique1.png): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 103
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Warning:  rename(enterprises/wolpboutique1,enterprises/wolpboutique1): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 104
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 656
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 660
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: categoriesx in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 665
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 683
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 687
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 691
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 696
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 700
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 704
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 708
+[27-Apr-2018 17:27:03 Etc/GMT] PHP Notice:  Undefined variable: responsee in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 718
+[27-Apr-2018 17:29:16 Etc/GMT] PHP Warning:  rename(enterprises/logos/wolpboutique1.png,enterprises/logos/wolpboutique1.png): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 103
+[27-Apr-2018 17:29:16 Etc/GMT] PHP Warning:  rename(enterprises/wolpboutique1,enterprises/wolpboutique1): No such file or directory in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 104
+[27-Apr-2018 17:29:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 232
+[27-Apr-2018 17:32:37 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 232
+[27-Apr-2018 17:36:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/allancloudstores/public_html/cloudstores/register/editenterprise.php on line 232
+[07-May-2018 12:52:03 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/verify.php on line 7
+[07-May-2018 12:52:03 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/verify.php on line 8
+[07-May-2018 12:52:03 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/verify.php on line 9
+[15-May-2018 10:00:20 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 7
+[15-May-2018 10:00:20 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 8
+[15-May-2018 10:00:20 Etc/GMT] PHP Notice:  Undefined index: verified in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 9
+[15-May-2018 10:00:20 Etc/GMT] PHP Notice:  Undefined index: paid in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 10
+[15-May-2018 13:04:27 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 14
+[15-May-2018 13:04:27 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 15
+[15-May-2018 13:04:27 Etc/GMT] PHP Notice:  Undefined index: verified in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 16
+[15-May-2018 13:04:27 Etc/GMT] PHP Notice:  Undefined index: paid in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 17
+[15-May-2018 13:04:28 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 14
+[15-May-2018 13:04:28 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 15
+[15-May-2018 13:04:28 Etc/GMT] PHP Notice:  Undefined index: verified in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 16
+[15-May-2018 13:04:28 Etc/GMT] PHP Notice:  Undefined index: paid in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 17
+[16-May-2018 01:47:19 Etc/GMT] PHP Notice:  Undefined index: tag in /home/allancloudstores/public_html/cloudstores/register/payment.php on line 14
+[16-May-2018 01:47:19 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/payment.php on line 15
+[16-May-2018 01:47:19 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/payment.php on line 16
+[03-Jun-2018 20:30:40 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 14
+[03-Jun-2018 20:30:40 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 15
+[03-Jun-2018 20:30:40 Etc/GMT] PHP Notice:  Undefined index: verified in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 16
+[03-Jun-2018 20:30:40 Etc/GMT] PHP Notice:  Undefined index: paid in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 17
+[18-Jun-2018 13:28:59 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 13:28:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 13:28:59 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gallery_num' in 'field list'' in /home/allancloudstores/public_html/cloudstores/register/loggedin.php:58
+Stack trace:
+#0 /home/allancloudstores/public_html/cloudstores/register/loggedin.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 58
+[18-Jun-2018 13:37:25 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 13:37:25 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:34:56 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:34:56 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:40:13 Etc/GMT] PHP Notice:  Undefined index: logo in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:40:13 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:44:58 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:44:58 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:46:49 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:46:49 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:54:12 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:54:12 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:57:45 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 14:57:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 15:12:49 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 15:12:49 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 15:15:33 Etc/GMT] PHP Notice:  Undefined index: files in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[18-Jun-2018 15:15:33 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/allancloudstores/public_html/cloudstores/register/loggedin.php on line 39
+[06-Jul-2018 22:50:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 102
+[06-Jul-2018 22:50:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 102
+[06-Jul-2018 22:51:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 102
+[06-Jul-2018 22:54:18 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 17
+[06-Jul-2018 22:54:18 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 36
+[06-Jul-2018 23:01:14 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 17
+[06-Jul-2018 23:01:14 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 36
+[11-Jul-2018 20:43:28 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 17
+[11-Jul-2018 20:43:28 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 36
+[11-Jul-2018 20:58:37 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 17
+[11-Jul-2018 20:58:37 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 36
+[11-Jul-2018 21:01:45 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 17
+[11-Jul-2018 21:01:45 Etc/GMT] PHP Notice:  Undefined variable: serverAPIKey in /home/allancloudstores/public_html/cloudstores/register/pushNotification.php on line 36
+[24-Jul-2018 23:13:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/allancloudstores/public_html/cloudstores/register/addproject.php:79
+Stack trace:
+#0 /home/allancloudstores/public_html/cloudstores/register/addproject.php(79): PDOStatement->execute()
+#1 {main}
+  thrown in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 79
+[24-Jul-2018 23:22:32 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/allancloudstores/public_html/cloudstores/register/addproject.php:80
+Stack trace:
+#0 /home/allancloudstores/public_html/cloudstores/register/addproject.php(80): PDOStatement->execute()
+#1 {main}
+  thrown in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 80
+[30-Jul-2018 13:42:34 Etc/GMT] PHP Notice:  Undefined index: un in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 25
+[30-Jul-2018 13:42:34 Etc/GMT] PHP Notice:  Undefined index: ps in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 26
+[30-Jul-2018 13:42:34 Etc/GMT] PHP Notice:  Undefined index: verified in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 27
+[30-Jul-2018 13:42:34 Etc/GMT] PHP Notice:  Undefined index: paid in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 28
+[30-Jul-2018 13:45:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '_images (logoname,projname)
+    VALUES ('ganyani65 _cgn_6.png','software108419')' at line 1' in /home/allancloudstores/public_html/cloudstores/register/addproject.php:61
+Stack trace:
+#0 /home/allancloudstores/public_html/cloudstores/register/addproject.php(61): PDOStatement->execute()
+#1 {main}
+  thrown in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 61
+[31-Jul-2018 14:18:45 Etc/GMT] PHP Notice:  Undefined variable: reply in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 522
+[31-Jul-2018 14:23:21 Etc/GMT] PHP Notice:  Undefined variable: reply in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 522
+[02-Aug-2018 23:19:54 Etc/GMT] PHP Notice:  Undefined variable: reply in /home/allancloudstores/public_html/cloudstores/register/addproject.php on line 525
