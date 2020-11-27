@@ -364,7 +364,7 @@ $x = 1;
 						
 						if(getsubdate($row['renew_date'])=="green" ){
 
-							echo "0";
+							echo "0000";
 
 						}elseif( getsubdate($row['renew_date'])=="yellow"){
 
@@ -426,7 +426,7 @@ $x = 1;
 						
 						<input type="hidden" name="rent" value=<?php  echo $row["rent"]; ?> />
 						<input type="hidden" name="cur" value=<?php  echo $row["currency"]; ?> />
-						<input type="hidden" name="names" value=<?php  echo $row["fname"]." ".$row["lname"]; ?> />
+						<input type="hidden" name="names" value='<?php  echo $row["fname"]." ".$row["lname"]; ?>' />
 						<input type="hidden" name="other" value=<?php  echo $row["other"]; ?> />
 						<input type="hidden" name="r_unit" value=<?php  echo $row["r_unit"]; ?> />
 						

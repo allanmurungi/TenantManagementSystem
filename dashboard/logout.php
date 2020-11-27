@@ -1,9 +1,17 @@
 <?php
 session_start();
 
+
+include("../connection.php");
+include("../constants.php");
+include("../utilityfunctions.php");
+
+include("../connection2.php");
+
+
 if(!isset($_SESSION["email"]) ){
 
-header("location:".DOMAIN_LOGIN);
+header("location: ".DOMAIN_LOGIN);
 
 
 }
@@ -11,7 +19,7 @@ header("location:".DOMAIN_LOGIN);
 session_destroy(); 
 
 
-header("location:".DOMAIN_LOGIN);
+header("location: ".DOMAIN_LOGIN);
 ?>
 
 		

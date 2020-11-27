@@ -102,7 +102,7 @@ table thead td { background-color: #EEEEEE;
 <tr>
 <td width="15%">Ref. No.</td>
 <td width="10%">Tenant id</td>
-<td width="45%">DescriptiRental Uniton</td>
+<td width="45%">Rental Unit</td>
 <td width="15%">Unit Price</td>
 <td width="15%">Amount</td>
 </tr>
@@ -138,7 +138,7 @@ $params = array(
 $mpdf = new mPDF();
 
 $mpdf->SetProtection(array('print'));
-$mpdf->SetTitle(Company." - Invoice");
+$mpdf->SetTitle(Company." - Receipt");
 $mpdf->SetAuthor(Company);
 $mpdf->SetWatermarkText("Paid in Full");
 $mpdf->showWatermarkText = true;
