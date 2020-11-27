@@ -5,6 +5,8 @@ include("constants.php");
 include("utilityfunctions.php");
 
 
+date_default_timezone_set("Africa/Kampala");
+
 $status="";
 if(isset($_SESSION["u_status"])){
 
@@ -45,7 +47,7 @@ $status="login failed, incorrect username or password ";
     <link href="css/style.css" rel="stylesheet">
 <style>
 body {
-    background-image: url("http://localhost:12345/site/images/main.jpg");
+    background-image: url("images/main.jpg");
     
     background-attachment: fixed;
     
@@ -341,7 +343,7 @@ function myFunction() {
                        
                     </form>
                     <p class="m-t">
-                        <small><a href="http://localhost:12345/site/forgotenpassword.php" >forgot password</a></small>
+                        <small><a href="<?php echo DOMAIN_URL."forgotenpassword.php"; ?> >forgot password</a></small>
                     </p>
                     <p class="m-t">
                         <small><?php echo the_company; ?> &copy; <?php echo date('Y')?></small>

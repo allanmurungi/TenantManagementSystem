@@ -6,9 +6,12 @@ include("../constants.php");
 include("../utilityfunctions.php");
 include("../connection2.php");
 
+
+date_default_timezone_set("Africa/Kampala");
+
 if(!isset($_SESSION["email"]) ){
 
-	header("location:http://localhost:12345/site/userlogin.php");
+	header("location:".DOMAIN_LOGIN);
 	
 	
 	}
@@ -61,7 +64,7 @@ $result_prods= mysqli_query($conn2, $sql_prods);
 
 #d_wrapper{
 
-background-image: url("img/re1.jpg");
+background-image: url("img/re.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size:cover;
@@ -142,7 +145,7 @@ body{
 							</ul>
 						</li>
 						<li>
-							<a href="http://localhost:12345/site/logout.php"><i class="icon-widgets"></i>Logout</a>
+							<a href="<?php echo DOMAIN_LOGOUT; ?>"><i class="icon-widgets"></i>Logout</a>
 						</li>
 						
 					</ul>

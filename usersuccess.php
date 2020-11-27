@@ -5,6 +5,9 @@ include("connection.php");
 include("constants.php");
 include("utilityfunctions.php");
 
+
+date_default_timezone_set("Africa/Kampala");
+
 $status=$_SESSION['visitor_logged_in'];
 $email=$_SESSION['visitor_email'];
 
@@ -39,7 +42,7 @@ $email=$_SESSION['visitor_email'];
     <link href="css/style.css" rel="stylesheet">
 <style>
 body {
-    background-image:  url("http://localhost:12345/site/images/main.jpg");
+    background-image:  url("images/main.jpg");
     
     background-attachment: fixed;
     

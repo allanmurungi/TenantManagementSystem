@@ -10,29 +10,30 @@ date_default_timezone_set("Africa/Kampala");
 
 if(!isset($_SESSION["email"]) ){
 
-	header("location:".DOMAIN_LOGIN);
+	header("location:http://localhost:12345/site/userlogin.php");
 	
 	
 	}
 
 
 
-if(isset( $_POST['invoice'] )){
+if(!isset( $_POST['invoice'] )){
 
-	$due=$_POST['due'];
-$issued=$_POST['issued'];
-$unit_price=$_POST['rent'];
-$r_unit=$_POST['r_unit'];
-$names=$_POST['names'] ;
-$ref_num = randomNumber(6);
-$other=$_POST['other'] ;
-$amount=$_POST['amount'];
-$cur=$_POST['cur'];
-$id=$_POST['id'];
+    
+    $issued=$_POST['issued'];
+    $unit_price=$_POST['rent'];
+    $r_unit=$_POST['r_unit'];
+	$names=$_POST['names'] ;
+	$other=$_POST['other'] ;
+    $ref_num = randomNumber(6);
+    
+    $amount=$_POST['amount'];
+    $cur=$_POST['cur'];
+    $id=$_POST['id'];
 
 }else{
 
-  header("location:".HOME);
+  header("location:http://localhost:12345/site/dashboard/home.php");
 
 }
 
@@ -79,7 +80,7 @@ table thead td { background-color: #EEEEEE;
 </head>
 <body>
 
-<div style="text-align: right">'.date('d-m-y').'</div>
+<div style="text-align: right">Date: 13th November 2008</div>
 
 <table width="100%" style="font-family: serif;" cellpadding="10"><tr>
 <td width="45%" style="border: 0.1mm solid #888888; "><span style="font-size: 7pt; color: #555555; font-family: sans;"><b>Biller:</b></span><br /><br />
@@ -89,11 +90,11 @@ table thead td { background-color: #EEEEEE;
 '.Email.'
 </td>
 <td width="10%">&nbsp;</td>
-<td width="45%" style="border: 0.1mm solid #888888;"><span style="font-size: 7pt; color: #555555; font-family: sans;"></b>Billed To:</b></span><br /><br />
-<b>Names</b>: '.$names.'<br />
-<b>Other names</b>: '.$other.'<br />
-<b>Issued on</b> '.$issued.'<br />
-<b>Was due</b> on '.$due.'</td>
+<td width="45%" style="border: 0.1mm solid #888888;"><span style="font-size: 7pt; color: #555555; font-family: sans;"><b>Billed To:</b></span><br /><br />
+<b>Names:</b> '.$names.'<br/>
+<b>Other names:</b> '.$other.'<br/>
+<b>Issued on</b> '.date('d-m-y').'<br/>
+</td>
 </tr></table>
 <br />
 <table class="items" width="100%" style="font-size: 9pt; border-collapse: collapse; " cellpadding="8">
@@ -101,7 +102,7 @@ table thead td { background-color: #EEEEEE;
 <tr>
 <td width="15%">Ref. No.</td>
 <td width="10%">Tenant id</td>
-<td width="45%">Rental Unit</td>
+<td width="45%">DescriptiRental Uniton</td>
 <td width="15%">Unit Price</td>
 <td width="15%">Amount</td>
 </tr>
@@ -114,7 +115,7 @@ table thead td { background-color: #EEEEEE;
 <td align="center">'.$id.'</td>
 <td>'.$r_unit.'</td>
 <td class="cost">'.$cur.' '.$unit_price.'</td>
-<td class="cost">'.$cur.' '.$Amount.'</td>
+<td class="cost">'.$cur.' '.'........'.'</td>
 </tr>
 <!-- END ITEMS HERE -->
 
@@ -139,7 +140,7 @@ $mpdf = new mPDF();
 $mpdf->SetProtection(array('print'));
 $mpdf->SetTitle(Company." - Invoice");
 $mpdf->SetAuthor(Company);
-$mpdf->SetWatermarkText(" Not Paid");
+$mpdf->SetWatermarkText("Paid in Full");
 $mpdf->showWatermarkText = true;
 $mpdf->watermark_font = 'DejaVuSansCondensed';
 $mpdf->watermarkTextAlpha = 0.2;

@@ -3,6 +3,9 @@ include("connection.php");
 include("constants.php");
 include("utilityfunctions.php");
 
+
+date_default_timezone_set("Africa/Kampala");
+
 $un=$_POST['email'];
 $ps=$_POST['pswd'];
 $match="false";
@@ -74,14 +77,14 @@ $_SESSION["u_verified"] = $response['u_verified'];
 $_SESSION["in_as"] = 'user';
 
 
-header("location: http://localhost:12345/site/useraccount.php");
+header("location: ".ACCOUNT);
 
 }else  {
    
 $_SESSION["u_status"]="fail";
 $_SESSION['u_status1']="fail2";
 
-header("location: http://localhost:12345/site/userlogin.php");
+header("location: ".DOMAIN_LOGIN);
 
 }
 
@@ -101,7 +104,7 @@ session_destroy();
 session_start();
 $_SESSION["u_status"]="fail";
 $_SESSION['u_status1']="fail3";
-header("location: http://localhost:12345/site/userlogin.php");
+header("location: ".DOMAIN_LOGIN);
 
 }
 //echo "<br/>"."query failed: " . $e->getMessage();

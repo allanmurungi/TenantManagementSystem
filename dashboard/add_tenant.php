@@ -7,10 +7,11 @@ include("../utilityfunctions.php");
 
 
 
+date_default_timezone_set("Africa/Kampala");
 
 if(!isset($_SESSION["email"]) ){
 
-	header("location:http://localhost:12345/site/userlogin.php");
+	header("location: ".DOMAIN_URL."userlogin.php");
 	
 	
 	}
@@ -244,7 +245,7 @@ label{
 							</ul>
 						</li>
 						<li>
-							<a href="http://localhost:12345/site/logout.php"><i class="icon-widgets"></i>Logout</a>
+							<a href="<?php echo DOMAIN_LOGOUT; ?>"><i class="icon-widgets"></i>Logout</a>
 						</li>
 						
 					</ul>
@@ -331,7 +332,7 @@ label{
  
  
 											<div class="row gutter">
-													<label class="control-label">rent</label>
+													<label class="control-label">rent per month</label>
 													<input type="text" pattern="[0-9]+" placeholder="rent" class="form-control" name="rent" required/>
 											
 											</div>
@@ -352,8 +353,18 @@ label{
                                             <h4>Renew Tenant's Stay Starting On : </h4>
                                             <hr/>
 													<label class="control-label">Start Day:</label>
-													<input type="text" pattern="[A-Za-z0-9-@!#$%^&*,./_ ]+" placeholder="day" class="form-control" name="dy1" required  />
-												
+											<select name="dy1" id="days">
+															
+
+												<?php for($i=1;$i<=31;$i++){ ?>
+
+												<option value="<?php echo $i; ?>"><?php echo $i; ?></option>
+
+
+												<?php	} ?>
+															
+											</select>	
+
 											</div>
 											<br/>
 											<div class="row gutter">

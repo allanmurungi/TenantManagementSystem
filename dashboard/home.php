@@ -6,6 +6,9 @@ include '../connection.php';
 include '../constants.php';
 include '../utilityfunctions.php';
 
+
+date_default_timezone_set("Africa/Kampala");
+
 if(!isset($_SESSION['email'])){
 //redirect
 header("location:logout.php");
@@ -47,6 +50,9 @@ $reds = 0;
 $oranges = 0;
 $blues = 0;
 $greens = 0;
+$purples = 0;
+$yellows = 0;
+$golds = 0;
 $color_response="";
 
 try{
@@ -68,9 +74,21 @@ try{
 
 			$oranges= $oranges+1;
 		}
+		elseif($color_response == "yellow"){
+
+			$yellows= $yellows+1;
+		}
+		elseif($color_response == "gold"){
+
+			$golds= $golds+1;
+		}
 		elseif($color_response == "blue"){
 
 			$blues= $blues+1;
+		}
+		elseif($color_response == "purple"){
+
+			$purples= $purples+1;
 		}
 		elseif($color_response == "green"){
 
@@ -127,7 +145,7 @@ try{
 
 #d_wrapper{
 
-background-image: url("img/re1.jpg");
+background-image: url("img/re.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size:cover;
@@ -136,6 +154,7 @@ label{
 
 	font-weight:bold;
 }
+
 
 
 </style>
@@ -236,80 +255,124 @@ label{
 					<!-- Row starts -->
 					<div class="row gutter">
 						<div class="col-lg-6 col-md-6 col-sm-6">
-							<div class="mini-widget">
+							<div class="mini-widget grey">
 								<div class="mini-widget-heading clearfix">
 									<div class="pull-left">Tenants</div>
-									<div class="pull-right"><i class="icon-arrow-up-right2"></i> </div>
+									<div class="pull-right"></div>
 								</div>
 								<div class="mini-widget-body clearfix">
 									<div class="pull-left">
 										<i class="icon-globe"></i>
 									</div>
-									<div class="pull-right number"><?php echo $tnts; ?></div>
+									<div class="pull-right number"><?php echo number_format($tnts); ?></div>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-6">
 							<div class="mini-widget green">
 								<div class="mini-widget-heading clearfix">
-									<div class="pull-left">Green flag</div>
+									<div class="pull-left">Green flag (within time)</div>
 									<div class="pull-right"><i class="icon-arrow-up-right2"></i> </div>
 								</div>
 								<div class="mini-widget-body clearfix">
 									<div class="pull-left">
 									<i class="icon-emoji-happy"></i>
 									</div>
-									<div class="pull-right number"><?php echo $greens; ?></div>
+									<div class="pull-right number"><?php echo number_format($greens); ?></div>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-6">
 							<div class="mini-widget yellow">
 								<div class="mini-widget-heading clearfix">
-									<div class="pull-left">Orange flag</div>
+									<div class="pull-left">Yellow flag (late by 1 - 10 days)</div>
 									<div class="pull-right"><i class="icon-arrow-down-right2"></i></div>
 								</div>
 								<div class="mini-widget-body clearfix">
 									<div class="pull-left">
 									<i class="icon-emoji-happy"></i>
 									</div>
-									<div class="pull-right number"><?php echo number_format($oranges); ?></div>
+									<div class="pull-right number"><?php echo number_format($yellows); ?></div>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-6">
-							<div class="mini-widget blue">
+							<div class="mini-widget gold">
 								<div class="mini-widget-heading clearfix">
-									<div class="pull-left">Blue flag</div>
-									<div class="pull-right"><i class="icon-arrow-up-right2"></i> </div>
+									<div class="pull-left">Gold flag (late by 10 - 30 days)</div>
+									<div class="pull-right"><i class="icon-arrow-down-right2"></i></div>
 								</div>
 								<div class="mini-widget-body clearfix">
 									<div class="pull-left">
-										<i class="icon-emoji-happy"></i>
+									<i class="icon-emoji-sad"></i>
+									</div>
+									<div class="pull-right number"><?php echo number_format($golds); ?></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-6">
+							<div class="mini-widget orange">
+								<div class="mini-widget-heading clearfix">
+									<div class="pull-left">Orange flag (late by 30 - 55 days)</div>
+									<div class="pull-right"><i class="icon-arrow-down-right2"></i></div>
+								</div>
+								<div class="mini-widget-body clearfix">
+									<div class="pull-left">
+									<i class="icon-emoji-sad"></i>
+									</div>
+									<div class="pull-right number"><?php echo number_format($oranges); ?></div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-lg-6 col-md-6 col-sm-6">
+							<div class="mini-widget blue">
+								<div class="mini-widget-heading clearfix">
+									<div class="pull-left">Blue flag (late by 55 - 65 days)</div>
+									<div class="pull-right"><i class="icon-arrow-down-right2"></i> </div>
+								</div>
+								<div class="mini-widget-body clearfix">
+									<div class="pull-left">
+										<i class="icon-emoji-sad"></i>
 									</div>
 									<div class="pull-right number"><?php echo number_format($blues); ?></div>
 								</div>
 							</div>
 						</div>
+						
 					</div>
 					<!-- Row ends -->
 					<div class="row gutter">
-						<div class="col-lg-6 col-md-6 col-sm-6">
-							<div class="mini-widget red">
+					<div class="col-lg-6 col-md-6 col-sm-6">
+							<div class="mini-widget purple">
 								<div class="mini-widget-heading clearfix">
-									<div class="pull-left">Red flag</div>
-									<div class="pull-right"><i class="icon-arrow-up-right2"></i> </div>
+									<div class="pull-left">Purle flag (late by 60 - 75 days)</div>
+									<div class="pull-right"><i class="icon-arrow-down-right2"></i> </div>
 								</div>
 								<div class="mini-widget-body clearfix">
 									<div class="pull-left">
-										
+									<i class="icon-emoji-sad"></i>
+									</div>
+									<div class="pull-right number"><?php echo number_format($purples); ?></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-6">
+							<div class="mini-widget red">
+								<div class="mini-widget-heading clearfix">
+									<div class="pull-left">Red flag (late by 3 months and more)</div>
+									<div class="pull-right"><i class="icon-arrow-down-right2"></i> </div>
+								</div>
+								<div class="mini-widget-body clearfix">
+									<div class="pull-left">
+									<i class="icon-emoji-sad"></i>
 									</div>
 									<div class="pull-right number"><?php echo number_format($reds); ?></div>
 								</div>
 							</div>
 						</div>
-</div>
-
+					</div>
+					<!-- end of row  -->
 
 				</div>
 				<!-- Main container ends -->

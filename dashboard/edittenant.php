@@ -7,9 +7,11 @@ include("../constants.php");
 include("../utilityfunctions.php");
 
 
+date_default_timezone_set("Africa/Kampala");
+
 if(!isset($_SESSION["email"]) ){
 
-	header("location:http://localhost:12345/site/userlogin.php");
+	header("location:".DOMAIN_LOGIN);
 	
 	
 	}
@@ -215,7 +217,7 @@ label{
 							</ul>
 						</li>
 						<li>
-							<a href="http://localhost:12345/site/logout.php" ><i class="icon-widgets"></i>Logout</a>
+							<a href="<?php echo DOMAIN_LOGOUT; ?>" ><i class="icon-widgets"></i>Logout</a>
 						</li>
 						
 					</ul>

@@ -4,9 +4,12 @@ include("connection.php");
 include("constants.php");
 include("utilityfunctions.php");
 
+
+date_default_timezone_set("Africa/Kampala");
+
 if(!isset($_SESSION["email"]) ){
 
-header("location:http://localhost:12345/site/userlogin.php");
+header("location:".DOMAIN_LOGIN);
 
 
 }
@@ -32,11 +35,11 @@ session_destroy();
 
 
 
-header("location: http://localhost:12345/site/userlogin.php");
+header("location: ".DOMAIN_LOGIN);
 
 }catch(Exception $e){
     
-  header("location: http://localhost:12345/site/useraccount.php");
+  header("location: ".ACCOUNT);
     
 }
 

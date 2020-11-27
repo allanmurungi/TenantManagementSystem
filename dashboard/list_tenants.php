@@ -1,15 +1,18 @@
 <?php 
 session_start();
 
+
 include("../connection.php");
 include("../constants.php");
 include("../utilityfunctions.php");
 
 include("../connection2.php");
 
+date_default_timezone_set("Africa/Kampala");
+
 if(!isset($_SESSION["email"]) ){
 
-	header("location:http://localhost:12345/site/userlogin.php");
+	header("location:".DOMAIN_LOGIN);
 	
 	
 	}
@@ -197,7 +200,7 @@ body{
 							</ul>
 						</li>
 						<li>
-							<a href="http://localhost:12345/site/logout.php"><i class="icon-widgets"></i>Logout</a>
+							<a href="<?php echo DOMAIN_LOGOUT; ?>"><i class="icon-widgets"></i>Logout</a>
 						</li>
 						
 					</ul>
@@ -351,7 +354,93 @@ $x = 1;
 				</button>   
 				
 				</form>	
-				 
+				 <hr/>
+				 <form  action="invoice.php" target="_blank" enctype="multipart/form-data" method="post">
+				
+				
+						<input type="hidden" name="id" value=<?php  echo $row["id"]; ?> />
+						<input type="hidden" name="rent" value=<?php  echo $row["rent"]; ?> />
+						<input type="hidden" name="amount" value=<?php 
+						
+						if(getsubdate($row['renew_date'])=="green" ){
+
+							echo "0";
+
+						}elseif( getsubdate($row['renew_date'])=="yellow"){
+
+							echo $row["rent"];
+
+						}elseif( getsubdate($row['renew_date'])=="gold"){
+
+							echo $row["rent"];
+
+						}
+						elseif( getsubdate($row['renew_date'])=="orange"){
+
+							echo ($row["rent"]*2);
+
+						}
+						elseif( getsubdate($row['renew_date'])=="blue"){
+
+							echo ($row["rent"]*2);
+
+						}
+						elseif( getsubdate($row['renew_date'])=="purple"){
+
+							echo ($row["rent"]*3);
+
+						}elseif( getsubdate($row['renew_date'])=="red"){
+
+							echo ($row["rent"]*4);
+
+						}
+						
+						
+						
+						
+						
+						?> />
+						<input type="hidden" name="cur" value=<?php  echo $row["currency"]; ?> />
+						<input type="hidden" name="names" value='<?php  echo $row["fname"]." ".$row["lname"]; ?>' />
+						<input type="hidden" name="other" value='<?php  echo $row["other"]; ?>' />
+						<input type="hidden" name="r_unit" value=<?php  echo $row["r_unit"]; ?> />
+						
+						<input type="hidden" name="due" value='<?php  echo date('d-m-y',$row['renew_date']); ?>' />
+						
+						<input type="hidden" name="issued" value='<?php  echo date('d-m-y'); ?>' />
+
+							<input type="hidden" name="invoice" value="invoice" />
+							<input type="hidden" name="un" <?php  echo $row["username"]; ?> />
+							
+	            <button type="submit" class="btn btn-primary block width="200" m-b"> <?php 
+				echo "invoice";
+				?> 
+				</button>   
+				
+				</form>	
+				<hr/>
+				 <form  action="receipt.php" target="_blank" enctype="multipart/form-data"  method="post">
+				
+				
+				 <input type="hidden" name="id" value=<?php  echo $row["id"]; ?> />
+						
+						<input type="hidden" name="rent" value=<?php  echo $row["rent"]; ?> />
+						<input type="hidden" name="cur" value=<?php  echo $row["currency"]; ?> />
+						<input type="hidden" name="names" value=<?php  echo $row["fname"]." ".$row["lname"]; ?> />
+						<input type="hidden" name="other" value=<?php  echo $row["other"]; ?> />
+						<input type="hidden" name="r_unit" value=<?php  echo $row["r_unit"]; ?> />
+						
+						<input type="hidden" name="issued" value='<?php  echo $row["last_payment_date"]; ?>' />
+
+							<input type="hidden" name="receipt" value="receipt" />
+							<input type="hidden" name="un" <?php  echo $row["username"]; ?> />
+							
+	            <button type="submit" class="btn btn-primary block width="200" m-b"> <?php 
+				echo "receipt";
+				?> 
+				</button>   
+				
+				</form>	
 								    
 								</td>
 											  </tr>

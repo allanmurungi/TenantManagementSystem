@@ -30,18 +30,39 @@ $newend = date("d-m-y", $enddate)."";
 
   $interval=$diff->format("%a");
 //$interval=97;
-    if($interval>90){
+    if($interval>=95){
 
       $color="red";
 
-    }elseif($interval>30 && $interval<90){
+    }
+    elseif($interval>75 && $interval<=95){
+
+      $color="red";
+      
+    }
+    elseif($interval>60 && $interval<=75){
+
+      $color="purple";
+      
+    }
+    elseif($interval>=55 && $interval<=65){
 
       $color="blue";
       
-    }elseif($interval<30){
+    }elseif($interval>30 && $interval<55){
 
       $color="orange";
+      
     }
+    elseif($interval>10 && $interval<=30){
+
+      $color="gold";
+    }
+    elseif($interval<10){
+
+      $color="yellow";
+    }
+
 
 
 

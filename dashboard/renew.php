@@ -6,10 +6,11 @@ include("../connection2.php");
 include("../constants.php");
 include("../utilityfunctions.php");
 
+date_default_timezone_set("Africa/Kampala");
 
 if(!isset($_SESSION["email"]) ){
 
-	header("location:http://localhost:12345/site/userlogin.php");
+	header("location:".DOMAIN_LOGIN);
 	
 	
 	}
@@ -225,7 +226,7 @@ label{
 							</ul>
 						</li>
 						<li>
-							<a href="http://localhost:12345/site/logout.php" ><i class="icon-widgets"></i>Logout</a>
+							<a href="<?php echo DOMAIN_LOGOUT; ?>" ><i class="icon-widgets"></i>Logout</a>
 						</li>
 						
 					</ul>
@@ -293,8 +294,17 @@ label{
                                             <hr/>
                                             
 													<label class="control-label">Renewal Day:</label>
-													<input type="text" pattern="[A-Za-z0-9-@!#$%^&*,./_ ]+" placeholder="day" class="form-control" name="dy" required  />
-												
+													<select name="dy" id="days">
+															
+
+															<?php for($i=1;$i<=31;$i++){ ?>
+			
+															<option value="<?php echo $i; ?>"><?php echo $i; ?></option>
+			
+			
+															<?php	} ?>
+																		
+														</select>												
 											</div>
 											<br/>
 											<div class="row gutter">
